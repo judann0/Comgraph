@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "JJcomgrap\\include\\pmp\\out\\build\\x64-Debug",
+      "JJcomgrap\\include\\pmp\\out\\install\\x64-Debug"
+    ]
+  }
+}
